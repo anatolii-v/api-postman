@@ -56,6 +56,7 @@ Comprehensive API testing project for **Restful Booker API** - a hotel reservati
 ---
 
 ## 🚀 How to Run Tests
+<img width="2559" height="1334" alt="postman" src="https://github.com/user-attachments/assets/6edd5503-7c1b-4ed0-91d1-875ed6e0c017" />
 
 ### Prerequisites
 ```bash
@@ -101,3 +102,4 @@ newman run collections/Restful_Booker_Test_Collection.postman_collection.json -e
 - **Total Assertions:** 100+
 - **Execution Time:** 5-8 seconds
 - **Coverage:** All endpoints + edge cases
+<img width="2559" height="1163" alt="newman" src="https://github.com/user-attachments/assets/c780aa0e-37ba-4a74-a5fa-aa145c21b750" />
