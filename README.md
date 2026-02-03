@@ -5,7 +5,7 @@ Comprehensive API testing project for **Restful Booker API** - a hotel reservati
 ---
 
 ## 🎯 What Was Tested and Why
-
+<img width="2559" height="1334" alt="postman" src="https://github.com/user-attachments/assets/6edd5503-7c1b-4ed0-91d1-875ed6e0c017" />
 ### Functional Testing
 - **CRUD operations** - Create, Read, Update, Delete bookings
 - **Authentication** - Token generation and Basic Auth
@@ -56,7 +56,6 @@ Comprehensive API testing project for **Restful Booker API** - a hotel reservati
 ---
 
 ## 🚀 How to Run Tests
-<img width="2559" height="1334" alt="postman" src="https://github.com/user-attachments/assets/6edd5503-7c1b-4ed0-91d1-875ed6e0c017" />
 
 ### Prerequisites
 ```bash
